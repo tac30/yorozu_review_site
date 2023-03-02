@@ -38,9 +38,6 @@ https://docs.google.com/spreadsheets/d/1uhzTY6w_mxXi8Q3SwwZ4KMXHfUjWnpILq8P1Q5yJ
 
 
 
-
-
-
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
